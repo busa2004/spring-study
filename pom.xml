@@ -41,5 +41,6 @@
   	<module>spring-study-hellospring1</module>
   	<module>spring-study-container</module>
   	<module>spring-study-mysite</module>
+  	<module>spring-study-jblog</module>
   </modules>
 </project>
